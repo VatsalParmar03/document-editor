@@ -1,0 +1,41 @@
+.simple-editor {
+  outline: none !important;
+  min-height: 600px;
+  font-size: 14px;
+  line-height: 1.6;
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: normal !important;
+}
+
+.simple-editor p {
+  margin: 0 0 1rem 0;
+}
+
+.simple-editor h1, .simple-editor h2, .simple-editor h3 {
+  margin: 1.5rem 0 1rem 0;
+}
+
+.simple-editor ul, .simple-editor ol {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.simple-editor li {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+.simple-editor .page-break {
+  border-top: 2px dashed #ccc;
+  margin: 2rem 0;
+  page-break-after: always;
+  padding: 10px;
+  text-align: center;
+  color: #666;
+}
+
+.simple-editor a {
+  color: #3b82f6;
+  text-decoration: underline;
+}
