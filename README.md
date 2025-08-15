@@ -38,6 +38,3 @@ To make this production-ready:
 - **Tailwind CSS** — Utility-first styling
 - **Lucide Icons** — Modern SVG icon set
 - **Vite** — Lightning-fast development build tool
-
-# Build for production
-npm run build
